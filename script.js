@@ -1,5 +1,6 @@
 // API Base URL
-const API_BASE = '/api';
+const API_BASE = 'https://ds-backend-3hlh.onrender.com/api';
+
 
 // Tab Management
 function showTab(tabName) {
