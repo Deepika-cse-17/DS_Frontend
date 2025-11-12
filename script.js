@@ -1,5 +1,6 @@
 // API Base URL
-const API_BASE = 'https://ds-backend-3hlh.onrender.com/api';
+const response = await fetch("https://ds-backend-3hlh.onrender.com/api/students");
+
 
 
 // Tab Management
